@@ -1,0 +1,27 @@
+
+.cardItem{
+    width: 33%;
+    height: 33%;
+    background-color: rgb(255, 255, 255);
+    
+}
+#search{
+  margin: auto;
+  width: 50%;
+ 
+  padding: 10px;
+  justify-content: space-between;
+  text-align: center;
+  
+
+
+ 
+}
+#search div + div{
+  margin-left: 20px;
+}
+.card-img-top{
+  width: 521px;
+  height: 280px;
+}
+ 

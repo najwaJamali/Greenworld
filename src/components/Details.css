@@ -1,0 +1,19 @@
+
+#info{
+    font-size: 40px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: normal;
+    
+    
+    justify-content: center;
+    
+}
+#text{
+    text-decoration: double;
+    font-size: 25px;
+    color: darkred;
+    font-family: 'Courier New', Courier, monospace
+}
+.photo1{
+    justify-content: center;
+}

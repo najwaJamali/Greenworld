@@ -1,0 +1,24 @@
+
+.contactus{line-height: 1.5em;}
+    
+.cascading-right {
+    margin-right: -50px;
+  }
+
+  @media (max-width: 991.98px) {
+    .cascading-right {
+      margin-right: 0;
+    }
+  }
+
+    @media (max-width: 576px) {
+        .gradient-custom-2 {
+            display: none;
+        }
+    
+        }
+   
+    
+    .text{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
